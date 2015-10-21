@@ -1,0 +1,44 @@
+body {
+	font-family: arial, sans-serif;
+	font-size: 80%;
+	color: blue;
+	background-color: #808080;
+}
+
+h1 {
+	color: #ffc;
+	background-color: #900;
+	font-size: 2em;
+	margin: 0;
+	margin-bottom: 0.5em;
+	padding: 0.25em;
+	font-style: italic;
+	text-align: center;
+	letter-spacing: 0.5em;
+
+}
+
+h2 {
+	color: white;
+	background-color: #090;
+	font-size: 1.5em;
+	margin: 0;
+	padding: 0.1em;
+	padding-left: 1em;
+}
+
+h3 {
+	color: #999;
+	font-size: 1.25em;
+}
+
+img {
+	border-style: dashed;
+	border-width: 2px;
+	border-color: #ccc;
+}
+
+
+table {
+	background-color: #ccc;
+}
