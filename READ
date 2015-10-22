@@ -1,0 +1,20 @@
+Hello! Now, read it. У вас есть папка с проектом. 
+Project 
+-app 
+---templates
+------base(html)
+------index(html)
+------login(html)
+---__init__
+---forms
+---models
+---views
+-static
+---table.css
+---images
+------(картинки разные)
+-config 
+-db_create 
+-db_downgrade 
+-db_migrate 
+-db_upgrade run
